@@ -5,7 +5,7 @@ ITI lab 2 version control system (git)
 Foobar is a Python library for dealiing with word pluralizatiion
 
 ## installation
-**Use the package manager [pip] (https://pypi.org/project/pip/) to install foobar**
+**Use the package manager [pip](https://pypi.org/project/pip/) to install foobar**
 ```
 pip install foobar
 ```
@@ -26,4 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate
 
 ## License
-[MIT] (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) 
+[MIT](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) 
